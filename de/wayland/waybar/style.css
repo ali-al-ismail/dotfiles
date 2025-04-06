@@ -1,7 +1,7 @@
 window#waybar {
-	font-family: Ubuntu Nerd Font;
-	font-weight: 500;
-	font-size: 15px;
+  font-family: Ubuntu Nerd Font;
+  font-weight: 500;
+  font-size: 22px;
 
 	background-color: rgba(0, 0, 0, 0.8666666667);
 	color: #ffffff;
@@ -88,8 +88,7 @@ window#waybar {
 }
 
 #language {
-	font-family: Amiri;
-	font-size: 13px;
+  font-size: 18px;
 }
 
 #custom-webcam_indecator,

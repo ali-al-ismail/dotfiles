@@ -34,7 +34,7 @@ set -x LESS -R
 
 if status is-interactive
     # ------------ Fish Config -------------
-    fish_vi_key_bindings
+    #fish_vi_key_bindings
 
     # ------------ Fish Theme --------------
     # Syntax Highlighting
